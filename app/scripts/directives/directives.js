@@ -46,7 +46,7 @@ angular.module('hopeDirectives', [])
 
         $scope.$on('preparePrint', function() {
           var atLeastOneTrue = false;
-          console.log($scope.values, 'these are values...');
+          // console.log($scope.values, 'these are values...');
           if (angular.isArray($scope.values)) {
             
             for (var i=0; i < $scope.values.length; i++) {
@@ -65,6 +65,39 @@ angular.module('hopeDirectives', [])
         });
 
       }]
+    };
+  }])
+
+
+  .directive('copyMe', [function() {
+    return {
+      restrict: 'E',
+      scope: {
+        list: '=',
+        values: '='
+      },
+      controller: ['$scope', function($scope) {
+
+        $scope.renderedList = [];
+
+        $scope.$on('listUpdated', function() {
+          // console.log($scope.list, 'list updated');
+          // console.log($scope.values, 'list values');
+          if (angular.isArray($scope.list)) {
+            $scope.renderedList = [];
+            for (var i=0; i < $scope.list.length; i++) {
+              if ($scope.list[i] && !angular.isUndefined($scope.values[i])) {
+                $scope.renderedList.push($scope.values[i]);
+              }
+            }
+          }
+          // console.log($scope.renderedList, 'renderedList');
+        });
+
+        
+
+      }],
+      templateUrl: 'views/partials/copy-list.html'
     };
   }])
 ;
