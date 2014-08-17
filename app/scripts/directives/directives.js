@@ -14,6 +14,7 @@ angular.module('hopeDirectives', [])
       },
       controller: function ($scope, $element) {
         $scope.toggle = false;
+        $scope.applyHiddenPrint = false;
 
         $scope.$watch('toggle', function(newval) {
           if ($($scope.target).html() === '') {
@@ -45,6 +46,7 @@ angular.module('hopeDirectives', [])
 
 
         $scope.$on('preparePrint', function() {
+          // console.log(event, 'this is the event');
           var atLeastOneTrue = false;
           // console.log($scope.values, 'these are values...');
           if (angular.isArray($scope.values)) {
@@ -63,6 +65,48 @@ angular.module('hopeDirectives', [])
             $element.addClass($scope.newClass);
           }
         });
+
+      }]
+    };
+  }])
+
+
+  .directive('hiddenPrint', [function() {
+    return {
+      restrict: 'A',
+      scope: {
+        hiddenPrint: '=',
+        active: '='
+      },
+      controller: ['$scope', '$element', function($scope, $element) {
+
+        if (!$scope.active) {
+          $element.addClass('hidden-print');
+        }
+
+        $scope.$on('preparePrint', function() {
+          if ($scope.hiddenPrint && $scope.active && $element.hasClass('hidden-print')) {
+            console.log($element.attr('style'), 'style of element...');
+            if ($element.attr('style') === 'display: none;') {
+              $element.attr('style', 'display: block;');
+            }
+            $element.removeClass('hidden-print');
+          }
+          else if (!$scope.hiddenPrint && !$element.hasClass('hidden-print')) {
+            $element.addClass('hidden-print');
+          }
+        });
+
+
+        // $scope.$on('finishedPrint', function() {
+        //   if ($scope.active && $element.hasClass('removed-hidden-print')) {
+        //     console.log($element.attr('style'), 'style of element... after');
+        //     $element.removeClass('removed-hidden-print').addClass('hidden-print');
+        //     if ($element.hasClass('changed-display-block')) {
+        //       $element.attr('style', 'display:none;');
+        //     }
+        //   }
+        // });
 
       }]
     };

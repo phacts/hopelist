@@ -2,7 +2,14 @@
   <nav class=="hidden-print">
     <ul class="nav nav-pills navbar-default navbar-fixed-top hidden-print">
       <li class="hidden-xs" ng-repeat="list in lists track by $index" du-scrollspy="section-{{ $index }}" offset="50"><a offset="50" du-smooth-scroll href="#section-{{ $index }}">{{ list.section }}</a></li>
-      <li class="pull-right"><a class="btn btn-success" ng-click="preparePrint($event);"><span class="glyphicon glyphicon-print"></span> Print</a></li>
+      <li class="pull-right">
+        <form style="margin-top:0;margin-bottom:0;" class="navbar-form" role="search">
+          <div class="form-group checkbox">
+            <label><input type="checkbox" ng-model="includeDescriptions"> Print descriptions</label> &nbsp;
+          </div>
+          <button type="submit" ng-click="preparePrint($event);" class="btn btn-success"><span class="glyphicon glyphicon-print"></span> Print</button>
+        </form>
+      </li>
     </ul>
   </nav>
   <h4 class="text-muted"><h1>Accommodations<span ng-if="student"> for {{ student }}</span></h1></h4>
@@ -42,7 +49,10 @@
           <span class="pull-right hidden-print">
             <toggler data-target="#description-{{ $parent.$index }}-{{ $index }}"></toggler>
           </span>
-          <p class="description hidden-print" id="description-{{ $parent.$index }}-{{ $index }}">{{ item.description }}</p>
+          <p class="description" 
+            active="input.values[$parent.$index][$index]" 
+            hidden-print="includeDescriptions" 
+            id="description-{{ $parent.$index }}-{{ $index }}">{{ item.description }}</p>
         </label>
       </li>
     </ul>

@@ -13,6 +13,7 @@ angular.module('hopelistApp')
     $scope.input = {};
     $scope.input.values = [];
     $scope.toggles = [];
+    $scope.includeDescriptions = false;
 
 
     $scope.initInput = function (lists) {
@@ -41,9 +42,11 @@ angular.module('hopelistApp')
     $scope.preparePrint = function ($event) {
       $event.preventDefault();
 
-      $scope.$broadcast('preparePrint');
+      $scope.$broadcast('preparePrint', $scope.includeDescriptions);
 
       window.print();
+
+      // $scope.$broadcast('finishedPrint', $scope.includeDescriptions);
     };
     
     List.get(function (response) {
