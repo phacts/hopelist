@@ -17,7 +17,8 @@ angular
     'ngSanitize',
     'ngTouch',
     'hopeServices',
-    'hopeDirectives'
+    'hopeDirectives',
+    'duScroll'
   ])
   .config(function ($routeProvider) {
     $routeProvider
