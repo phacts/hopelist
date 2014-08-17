@@ -1,0 +1,39 @@
+<div class="header">
+  <!--<ul class="nav nav-pills pull-right">
+    <li class="active"><a ng-href="#">Print</a></li>
+  </ul>-->
+  <h4 class="text-muted"><h1>Accommodations<span ng-if="student"> for {{ student }}</span></h1></h4>
+</div>
+
+<div class="jumbotron hidden-print">
+  <h2>Accommodations Tool</h2>
+  <p>
+    Choose from the pre-built list to quickly generate a report for the student.
+
+    <input type="text" class="form-control" ng-model="student" placeholder="Enter Student's Name"><br>
+
+
+    <a class="btn btn-lg btn-success" ng-click="preparePrint($event);"><span class="glyphicon glyphicon-print"></span> Print</a></p>
+</div>
+
+<div class="hidden-print">
+  <h4>Select Items</h4>
+  <ul class="list-group" ng-if="items">
+    <li class="list-group-item" 
+      style="padding:0;" 
+      ng-class="input.values[$index] ? 'list-group-item-success' : 'hidden-print'" 
+      ng-repeat="item in items track by $index">
+      <label style="display:block; padding:10px 15px;">
+        <input class="hidden-print" type="checkbox" ng-model="input.values[$index]"> {{ item }} 
+      </label>
+    </li>
+  </ul>
+</div>
+
+
+<div class="row">
+  <h4>Selected Items</h4>
+  <copy-me list="input.values" values="items"></copy-me>
+</div>
+
+<!-- <pre>{{ input.values | json }}</pre> -->
