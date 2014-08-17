@@ -1,0 +1,67 @@
+{
+  "lists":
+  [
+    { 
+      "section": "Exam Accommodations",
+      "items":
+        [
+          {
+           "label": "Extended time on exams",
+           "description": "Bacon ipsum dolor sit amet pancetta meatloaf bacon brisket, cow pig hamburger flank ham. Pork loin andouille pig, corned beef short loin bresaola brisket hamburger. Strip steak sausage turkey, pork belly bresaola porchetta pork chop ground round pork ribeye ham jerky sirloin. Pig salami shankle, strip steak tenderloin short loin spare ribs boudin. Pancetta corned beef rump strip steak flank, pork cow pork loin."
+          },
+          {
+           "label": "Access to voice transcription or speech to text software",
+           "description": "This is extra content that we will hide on initial display, then we will show it."
+          },
+          {
+           "label": "Separate, quiet space for in-class writing assignments (including exams)",
+           "description": "This is extra content that we will hide on initial display, then we will show it."
+          }
+        ]
+    },
+    {
+      "section": "Housing Accommodations",
+      "items": [
+        {
+          "label": "Single Rooms",
+          "description": ""
+        }
+      ]
+    },
+    { 
+      "section": "Other Accommodations",
+      "items":
+        [
+          {
+           "label": "Extended time on exams",
+           "description": "This is extra content that we will hide on initial display, then we will show it."
+          },
+          {
+           "label": "Access to voice transcription or speech to text software",
+           "description": "Bacon ipsum dolor sit amet pancetta meatloaf bacon brisket, cow pig hamburger flank ham. Pork loin andouille pig, corned beef short loin bresaola brisket hamburger. Strip steak sausage turkey, pork belly bresaola porchetta pork chop ground round pork ribeye ham jerky sirloin. Pig salami shankle, strip steak tenderloin short loin spare ribs boudin. Pancetta corned beef rump strip steak flank, pork cow pork loin."
+          },
+          {
+           "label": "Separate, quiet space for in-class writing assignments (including exams)",
+           "description": "This is extra content that we will hide on initial display, then we will show it."
+          }
+        ]
+    },
+    {
+      "section": "Who Cares?",
+      "items": [
+        {
+          "label": "Some Stuff",
+          "description": "This is a descripfdfadfasf stion..."
+        },
+        {
+          "label": "more",
+          "description": "This is a description..."
+        },
+        {
+          "label": "Doing things",
+          "description": "This is a description..."
+        }
+      ]
+    }
+  ]
+}
