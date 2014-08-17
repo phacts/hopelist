@@ -1,7 +1,7 @@
 <div class="header">
   <nav class=="hidden-print">
     <ul class="nav nav-pills navbar-default navbar-fixed-top hidden-print">
-      <li class="hidden-phone" ng-repeat="list in lists track by $index" du-scrollspy="section-{{ $index }}" offset="50"><a offset="50" du-smooth-scroll href="#section-{{ $index }}">{{ list.section }}</a></li>
+      <li class="hidden-xs" ng-repeat="list in lists track by $index" du-scrollspy="section-{{ $index }}" offset="50"><a offset="50" du-smooth-scroll href="#section-{{ $index }}">{{ list.section }}</a></li>
       <li class="pull-right"><a class="btn btn-success" ng-click="preparePrint($event);"><span class="glyphicon glyphicon-print"></span> Print</a></li>
     </ul>
   </nav>
