@@ -87,13 +87,15 @@ angular.module('hopeDirectives', [])
         $scope.$on('preparePrint', function() {
           if ($scope.hiddenPrint && $scope.active && $element.hasClass('hidden-print')) {
             console.log($element.attr('style'), 'style of element...');
-            if ($element.attr('style') === 'display: none;') {
-              $element.attr('style', 'display: block;');
-            }
+            
             $element.removeClass('hidden-print');
           }
           else if (!$scope.hiddenPrint && !$element.hasClass('hidden-print')) {
             $element.addClass('hidden-print');
+          }
+
+          if ($scope.hiddenPrint && $scope.active && ($element.attr('style') === 'display: none;')) {
+            $element.attr('style', 'display: block;');
           }
         });
 
