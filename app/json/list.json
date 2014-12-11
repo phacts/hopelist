@@ -6,68 +6,72 @@
       "items":
       [
         {
-         "label": "Advanced written notice",
-         "description": "Some students require additional time to complete assignments or prepare themselves to complete tasks.  This accommodation assists them by allowing them to prepare ahead of time through receiving the syllabus or assignment earlier.  SAS cannot extend deadlines for specific assignments."
+         "label": "Advanced written notice of homework and writing assignments.",
+         "description": "Students with this accommodation need to be aware of all assignments, projects, and papers that they are expected to complete outside of class, well in advance. Instructors should communicate this written notice through the syllabus or a written consensus to amend the course syllabus. In order for the student to access the information later, the written notice can be sent via e-mail or posted online. This accommodation is critical for students who undergo regular rehabilitation therapy or some other form of continuous medical care (i.e., dialysis for kidney disease). DS does not extend deadlines for specific assignments, but the student is encouraged to discuss their options with their course instructor."
         },
         {
-         "label": "Access to handouts, slides, overheads, Power Points, presentation materials",
-         "description": "Early printed and/or visually-presented course material is needed for students who need extra time to read them or convert them to a more usable format (i.e. audio) on their own device.  It can be especially beneficial for students without disabilities who have trouble focusing on printed materials/visuals while listening to a lecture."
+         "label": "Early access to instructions and content for homework and writing assignments.",
+         "description": "Some students require additional time to complete homework and writing assignments (ex., projects, papers). This accommodation allows the student to have early access to the course syllabus, as well as, the content necessary for completing the assignment. The student will be able to plan ahead and make any necessary disability-related arrangements. In some courses, the content cannot be reasonably presented out of sequence or the assignment is based on cumulative knowledge. The DS office does not extend deadlines for specific assignments."
         },
         {
-         "label": "Assistive listening device (ALD)",
-         "description": "Some students who are hard of hearing may require the use of an assistive listening device in class.  In most cases, unless there is an audio system in the room that has a built in ALD, the instructor will be required to wear a small microphone for the student to hear openly or with a personal sound amplification devie.  It will be important for the instructor to repeat any comments from other members of the class."
+         "label": "Early access to handouts, slides, overheads, Power Point presentations, and other printed materials.",
+         "description": "Early access to printed and/or visually-presented course material is provided to students who need extra time to read and/or to convert the material to a more usable format (i.e., audio). This instructional practice can also be beneficial for students without disabilities who have trouble simultaneously focusing on printed materials/visuals while listening to a lecture."
         },
         {
-         "label": "Use of laptop/notetaking device",
-         "description": "Some students may need to type their notes on a computer with or without special software.  Others may be using another kind of note-taking aid, in the form of a computing device or mobile application."
+         "label": "Allowed use of an assistive listening device (ALD).",
+         "description": "Students who are hard-of-hearing may require the use of an assistive listening device in class.  In most cases, unless there is an audio system in the room that has a built in ALD, the instructor will be required to wear a small microphone for the student to hear openly or with a personal sound amplification device.  It will be important for the instructor to repeat any comments from other members of the class."
         },
         {
-         "label": "Closed caption videos",
-         "description": "Students who are deaf or hard of hearing will need to have all videos shown in class to have captioning.  If the copy being shown is not captioned, please contact SAS to have the video captioned by an off-campus provider."
+         "label": "Allowed use of a laptop or other computing device during class.",
+         "description": "Some students may need to type their class notes into a laptop or other DS-approved computing device. When these devices are generally disallowed by the course instructor, these students should be granted a reasonable exception. If the instructor has concerns about this accommodation, they must immediately contact DS to develop a comparable accommodation."
+        },
+        {
+         "label": "Access to captioned or scripted media.",
+         "description": "Students who are deaf or hard-of-hearing will need to have all videos (shown in and out of class) closed-captioned or preceded by a readable script. The DS office can assist instructors who need assistance with making their media accessible."
         },
         {
          "label": "Information on board read aloud (for students with visual disabilities)",
          "description": "Students, who are either blind or have limited vision, may not be able to see information that is written on the board.  Therefore, it is important for the instructor to read aloud all information that is written on the board in order to provide the student equal access to the information."
         },
         {
-         "label": "Interpeting/Sign Language Interpreter",
-         "description": "When the instructor or a classmate speaks, the interpreter translates the spoken words into the language used by the deaf or hard of hearing student.  The student likewise participates in the classroom by signing the information and the interpreter voices it (talks) for the class.  The interpreter is not meant to be a participant in the classroom, but a communication facilitator, making sure that communication is easily accessible for everyone."
+         "label": "Interpreting/Sign Language Interpreter",
+         "description": "When the instructor or a classmate speaks, the interpreter translates the spoken words into the language used by the deaf or hard-of-hearing student, typically American Sign Language.  Likewise, the student participates in the classroom by signing the information and the interpreter voices it (talks) to the class.  The interpreter is not meant to be a participant in the classroom, but a communication facilitator, making sure that communication is easily accessible for everyone. The University must provide qualified interpreters in classes and activities, upon proper notice by the student to the DS office."
         },
         {
-         "label": "Unscheduled class breaks",
-         "description": "Some students with medical conditions may need to leave the class unexpectedly if problems due to their disability occur during class (ex. irritibale bowel syndrom, sever migraines).  It is recommended that students who have these kinds of issues during class contact their instructor, as soon as possible, after the incident occurs and then work with the instructor to make up any missed work and obtain missed class content.  If this happens continuously, the student must contact the Office of Student Development as well as SAS and the instructor to determine appropriate action."
+         "label": "Allowed to take unscheduled class or exam breaks.",
+         "description": "There are some students with medical conditions who may need to leave the class unexpectedly if symptoms arise during class (ex. irritable bowel syndrome, severe migraines).  It is recommended that students who have these kinds of issues during class contact their instructor, as soon as possible, after the incident occurs and then work with the instructor to make up any missed work and obtain missed class content.  If this happens continuously, the student must contact the Office of Student Development, in addition to DS and and the instructor to determine appropriate action."
         },
         {
-         "label": "Notetakers/Instructors notes",
-         "description": "Many students benefit from having copies of their instructors existing course notes.  If available, the instructor should send these directive to the students or post them online. A select group of students benefit from having copies of class notes from another student in the course, moreso than other note-keeping methods.  With the student's consent, the professor, instroctor, or teaching assistant can make a general announcement that there are students in the class who have disabilities which preclude them from taking comprehensive notes and that it would be appreciated if other students could give the student with a disability copies of their notes.  Upon the students explicit request, CTL/SAS will send a separate \"request for note-taker\" email to the instructor. If a student agrees to be a notetaker, please have them visit the CTL so that they can be instructed on how to can and upload their notes for the requesting student.  Also, by finally signing up the note-taker, they will receive a gift card from SAS at the end of the semester (as a token of appreciation and to encourage volunteerism)."
+         "label": "Notetakers and/or access to instructors notes.",
+         "description": "Many students benefit from having copies of their instructors existing course notes.  If available, the instructor should send these directive to the students or post them online. A select group of students benefit from having copies of class notes from another student in the course, moreso than other note-keeping methods.  With the student's consent, the professor, instructor, or teaching assistant can make a general announcement that there are students in the class who have disabilities which preclude them from taking comprehensive notes and that it would be appreciated if other students could give the student with a disability copies of their notes.  Upon the students explicit request, DS will send a separate \"request for note-taker\" email to the instructor. If a student agrees to be a notetaker, please have them visit the DS office so that they can be instructed on how to can and upload their notes for the requesting student.  Also, by finally signing up the note-taker, they will receive a gift card from the DS office at the end of the semester."
         },
         {
-         "label": "Scheduled exam breaks",
-         "description": "Some students require periodic breaks while taking exams or completing long in-class writing assignments.  SAS can recommend a schedule (ex. 5 minute breaks every 30-45 minutes) or one can be negotiated between the instructor and student."
+         "label": "Scheduled breaks during exams.",
+         "description": "Some students require periodic breaks while taking exams or completing long in-class writing assignments.  DS can recommend a schedule (ex. 5 minute breaks every 30-45 minutes) or one can be negotiated between the instructor and student."
         },
         {
-         "label": "Ability to negotiate absences",
-         "description": "Governing laws (ADA/AA, etc.) specify that case-by-case exceptions should be made to established policy in order to avoid discrimination on the basis of a disability.  The student is required to notify the course instructor as soon as possible.  Each instructor or department makes determinations on absence policies for a given course.  SAS cannot require instructors to accept absences that violate the student's existing agreement with the instructor to attend a certain number of classes, although SAS can assist the student and instructor with negotiating absences.  Absences lasting several days should involve the Office of Student Development.  Negotations and discussions should answer the following questions: What are the essential elements of the course? How many absences would fundamentally alter the student's ability to experience, or ability to participate in, or contribute to and demonstrate learning?"
+         "label": "Ability to negotiate deadlines or request assignment extensions.",
+         "description": "Governing laws (ADA/AA, etc.) specify that case-by-case exceptions should be made to established policy in order to avoid discrimination on the basis of a disability.  This accommodation is rarely granted and the student is required to notify the course instructor as soon as possible.  Each instructor or department makes determinations on missed due dates and assignments.  DS cannot require instructors to accept absences that violate the student's existing agreement with the instructor to attend a certain number of classes, although DS can assist the student and instructor with negotiations.  Missed assignments that are associated with extended absences should involve the Office of Student Development, intiated by the student.  Negotiations and discussions should answer the following questions: What are the essential elements of the course? How many absences would fundamentally alter the student's ability to experience, or ability to participate in, or contribute to and demonstrate learning?"
         },
         {
-         "label": "Presence of personal care attendant",
+         "label": "Accompanyment by a personal care attendant on campus.",
          "description": "Some students with significant physical disabilities may require a personal care attendant to travel with them.  Depending on the needs of the student, the attendant may or may not sit with the person throughout class."
         },
         {
-         "label": "Preferential seating",
-         "description": "Students who have limited hearing, vision, or difficulty with attention, distraction, or an ability to focus will need to sit close or at an angle to the instuctor.  Students may also need to sit at a certain proximity to interpreters, projector screens, ventilation, and the like."
+         "label": "Preferential classroom seating.",
+         "description": "Students who have limited hearing, vision, or difficulty with attention, distraction, or an ability to focus may need to sit close or at an angle to the instructor.  Students may also need to sit at a certain proximity to interpreters, projector screens, ventilation, and the like."
         },
         {
-         "label": "Audio recording lectures",
-         "description": "Some students may ned to be able to record their lectures in class.  If the material you are presenting should not be indiscriminately distributed due to publishing concerns, SAS has loaner audio recording devices for approved students to check out for the semester.  Barring copyright concerns or major breaches/violations of confidentiality, these students should be allowed to record relevant course content."
+         "label": "Allowed to audio record class.",
+         "description": "Some students may ned to be able to record their lectures in class.  If the material you are presenting should not be indiscriminately distributed due to publishing concerns, DS has loaner audio recording devices for approved students to check out for the semester.  Barring copyright concerns or major breaches/violations of confidentiality, these students should be allowed to record relevant course content."
         },
         {
-         "label": "Alternate text formats",
-         "description": "Students with a variety of disabilities including, but not limited to, low vision and learning disabilities may require their print materials to be provided in an alternative format (electronic audio, large print, etc.).  This process takes varying amounts of time and is dependent upon many factors.  Therefore, it is critically important for students to get their book list request forms to SAS as soon as possible."
+         "label": "Access to alternate text formats (i.e., digital).",
+         "description": "Students with a variety of disabilities including, but not limited to, low vision and learning disabilities may require their print materials to be provided in an alternative format (electronic audio, large print, etc.).  This process takes varying amounts of time and is dependent upon many factors.  Therefore, it is critically important for students to get their book list request forms to DS as soon as possible."
         },
         {
-         "label": "Alternative format for in-class materials (accessible handouts)",
-         "description": "Students who are blind or low vision will need to have any materials that are needed for the class available in an appropriate alternative format (large print, Braille, dictated, etc.) so that they have access to the same information as other students.  Many times documents can be emailed to them directly from the instructor or uploaded for the whole class to access online.  If this is not possible, SAS can assist with the conversion process.  Please submit materials to SAS as far in advance as possible in order to allow time for processing."
+         "label": "Alternate format for in-class materials (accessible handouts).",
+         "description": "For example, students who are blind or low vision will need to have any materials that are needed for the class available in an appropriate alternate format (large print, audio, etc.) so that they have access to the same information as other students.  Many times, documents can be emailed to them directly from the instructor or uploaded for the whole class to access online.  If this is not possible, the DS office can assist the instructor with the conversion of these materials.  Please submit materials to DS as far in advance as possible, in order to allow time for processing."
         }
       ]
     },
@@ -76,32 +80,33 @@
       "items": 
       [
         {
-          "label": "Extended time",
-          "description": "Many students need additional time (1.5x or 2x) for in-class exams and other writing assessments (i.e. graded daily journal entries), the amount of time appropriate is based on the student's documentation. Students do have the option to take their tests at the CTL.  However, when students have questions which would be best answered by someone with established subject-matter competence, it may be more beneficial for the student to be proctored by the instructor's teaching assistant or a grader from the class or department.  In order to arrange testing in the CTL, the student must schedule with the testing center.  Then the testing center will get the exam from the instructor.  The instructor should send their testing instructions to the testing center in advance, using the form online or from the testing center.  Finally, the student will arrive on time at the CTL for their scheduled exame."
+          "label": "Extended time for timed, in-class exams and assessments.",
+          "description": "Prior to the exam date, these students may request additional time to complete in-class tests/quizzes and in-class assignments. due to a disability that affects areas like visual processing speed, reading speed, or fine motor dexterity. Sometimes the additional time is needed because the student is using software (ex., screen reader/read-aloud application) or hardware (ex., computer screen filter, handheld magnifier) to \"see\" the printed text clearly or to write legibly. If a student is approved for this accommodation in a given course, the student must be given a reasonable amount of lead time to make the necessary arrangements--most often, to schedule the exam with the Testing Center which routinely requires several days notice. Unless the course design is  essential element of the course fast-paced, accurate responses are an essential element of the course, pop quizzes or surprise assignments are not appropriate [SEE \"Resolutions for Unscheduled Exams (Pop Quizzes)\"  The amount of time appropriate is based on the student's documentation. Students do have the option to take their tests at the Testing Center.  However, when students have questions which would be best answered by someone with established subject-matter competence, it may be more beneficial for the student to be proctored by the instructor's teaching assistant or a grader from the class or department. 
+          "
         },
         {
-         "label": "Alternate exame dates during periods of heavy scheduling",
-         "description": "Some students with a variety of disabilities may need to space their exams out in order to allow for their disability to not significantly impact their ability to take their exams.  Each case is different and is typically negotiated between the instructor and student.  SAS can be contacted for consultation and will assist in determing the best way to address the matter."
+         "label": "Allowed to negotiate alternate exam dates, during periods of heavy scheduling.",
+         "description": "Some students with a variety of disabilities may need to space their exams out in order to allow for their disability to not significantly impact their ability to take their exams.  Each case is different and is typically negotiated between the instructor and student.  DS can be contacted for consultation."
         },
         {
-         "label": "Separate testing setting",
-         "description": "Students may need a separate, distraction or noise-reduced, test setting to mitigate the symptoms of an attention or anxiety disorder.  A few students have disabilities that are exacerbated by bright lights or other environmentall factors that must be reasonably controlled by the test administrators.  As with the accommodation for extended time, the class/department or the CTL testing center will proctor the exam upon the student's initiation of the stated SAS and CTL procedures."
+         "label": "Separate space to take in-class assessments.",
+         "description": "Students may need a separate, distraction or noise-reduced, test setting to mitigate the symptoms of an attention or anxiety disorder.  A few students have disabilities that are exacerbated by bright lights or other environmental factors that must be reasonably controlled by the test administrators.  As with the accommodation for extended time, the class/department or the Testing Center will proctor the exam upon the student's initiation of the stated DS and Testing Center procedures."
         },
         {
-         "label": "Technology for accessibility",
-         "description": "Some students will require assistive or adaptive technology to be able to complete exams and assignments.  This accommodation may be needed due to a physical or learning disability that requires the use of universal and specialized software (i.e. Read + Write Gold, downloadable from MU portal), hardware (i.e. Livescribe audio pen, personal alert system), and applications (i.e. Mac/Windows built-in speech-to-text).  Using speech-to-text often helps students with a procesing or fine motor disability to concentrate on organization and producing a legible work submission, respectively.  Students may be using this accommodation so that they can remain with the rest of the class, but this cannot be disruptive to other students.  Headphones may be used by the student if a speech output program is being used.  SAS also provides loaner headphones with microphones for use with speech-to-text software."
+         "label": "Access to assistive technology, through DS office.",
+         "description": "Some students will require assistive or adaptive technology to be able to complete exams and assignments.  This accommodation may be needed due to a physical or learning disability that requires the use of universal and specialized software (i.e. Read + Write Gold, downloadable from MU portal), hardware (i.e. Livescribe audio pen, personal alert system), and applications (i.e. Mac/Windows built-in speech-to-text).  Using speech-to-text often helps students with a processing or fine motor disability to concentrate on organization and producing a legible work submission, respectively.  Students may be using this accommodation so that they can remain with the rest of the class, but this cannot be disruptive to other students.  Headphones may be used by the student if a speech output program is being used.  SAS also provides loaner headphones with microphones for use with speech-to-text software."
         },
         {
-         "label": "Calculator",
+         "label": "Allowed use of a calculator for math computations.",
          "description": "The use of a calculator helps this student avoid mistakes such as reversing or skipping numbers.  If a test or assignment is designed to measure the student's ability to perform function a calculator would perform then this accommodation is inappropriate.  A basic four-function calculator can be used to accommodate for computational speed without providing access to the math functions being assessed."
         },
         {
-         "label": "Answer transferring or no scantron",
-         "description": "Some students, to to visual processing issues or visual disabilities, may not be able to accurately transfer their answers to small bubbles or workbooks.  In this case, the student should be able to answer directly on the exam/assignment.  If this is not possible, please contact SAS to determine what other options might be available."
+         "label": "No answer transferring/Scantron. Student is allowed to write directly on exam.",
+         "description": "Some students, due to visual tracking or other disabilities, may not be able to accurately transfer their answers to small bubbles or workbooks.  In this case, the student should be able to answer directly on the exam/assignment.  If this is not possible, please contact DS to determine what other options might be available."
         },
         {
-         "label": "Scribe",
-         "description": "Students who are unable to hand write their exam due to either a physical or visual disability, may require assistance with word-for-word transcription (i.e. scribe).  However, SAS encourages students to use SAS-provided technology, to become more independent and so that they can ensure that their work is completed to their desired standards.  SAS and CTL have staff designated to introduce and provide assistance with these technologies.  If assistive technology is not an available or oppropriate option given the circumstances, or disability limitations, SAS can assist with locating and arranging a human scribe for short-term assistance."
+         "label": "Speech-to-text or read-aloud software on exams. (Student must arrange with DS, at least a week in advance.)",
+         "description": "Students who are unable to hand write their exam due to either a physical or visual disability, may require assistance with word-for-word transcription (i.e. scribe).  However, DS encourages students to use DS-provided technology, to become more independent and so that they can ensure that their work is completed to their desired standards.  DS has staff designated to introduce and provide assistance with these technologies.  If assistive technology is not an available or appropriate option given the circumstances, or disability limitations, DS may be able to assist the student with locating and arranging a human scribe for short-term assistance."
         }
       ]
     },
@@ -110,16 +115,16 @@
       "items":
         [
           {
-           "label": "Housing and dining accommodations",
-           "description": "In order to be eligible for disablity-based housing accommodation, students will need to submit a Housing & Accommodation Request Form to SAS and ensure that they have the appropriate disability documentation online.  Students with disabilities who would like to receive housing accommodations should still contact the Office of Campus & Residential Services to participate in the regular housing assignment process."
+           "label": "Housing and/or dining accommodations.",
+           "description": "In order to be eligible for disability-based housing accommodations, students will need to submit a Housing & Accommodation Request Form to DS and ensure that they have the appropriate disability documentation on file.  Students with disabilities who would like to receive housing accommodations should still contact the Office of Campus & Residential Services to participate in the regular housing assignment process."
           },
           {
-           "label": "Accessible classroom location",
-           "description": "Students who need to ensure that their class is located in an accessible building or section of a building (i.e. rear) should make sure to select courses early and must confirm with SAS that their classroom assignments meet their needs.  SAS works with the Office of the Registrar, Physical Plans, and other departments to coordinate classroom access, so it is critical that SAS be notified of this need well before the start of the semester."
+           "label": "Accessible classroom location.",
+           "description": "Students who need to ensure that their class is located in an accessible building or section of a building (i.e. rear) should make sure to select courses early and must confirm with DS that their classroom assignments meet their needs.  When given sufficient notice, DS will work with the Office of the Registrar, Physical Plant/Facilities, and other departments to coordinate classroom access, so it is critical that DS be notified of this need well before the start of the semester."
           },
           {
-           "label": "Accessible classroom setup",
-           "description": "Students who may need special height adjustments made on classroom tables/desks, or other minor architectural adjustments, must contact SAS as soon as they register for classes. SAS works with the Office of the Registrar, Physical Plans, and other departments to coordinate classroom access, so it is critical that SAS be notified of this need well before the start of the semester."
+           "label": "Accessible classroom setup.",
+           "description": "Students who need height adjustments to be made on classroom tables/desks, or who experience other architectural barriers must contact DS as soon as they register for classes. When given sufficient notice, DS will work with the Office of the Registrar, Physical Plant/Facilities, and other departments to coordinate classroom access, so it is critical that DS be notified of this need well before the start of the semester."
           }
         ]
     }
